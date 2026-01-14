@@ -1,0 +1,21 @@
+# Core ML/DL Framework
+torch==2.6.0
+torchvision==0.21.0
+
+# Data Handling and Numerics
+pandas==2.2.3
+numpy==2.1.1
+scikit-learn==1.5.2
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Web App and API
+streamlit==1.38.0
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+python-multipart==0.0.12
+
+# Testing
+pytest==8.3.3
